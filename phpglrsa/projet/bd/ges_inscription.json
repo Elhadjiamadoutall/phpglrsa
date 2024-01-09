@@ -1,0 +1,74 @@
+{
+    "id": 2,
+    "type": "annulation",
+    "date": "12\/01\/2023",
+    "motif": "ouleye mayma sa gammer",
+    "etudiant_id": 1,
+    "annee_id": 1,
+    "etat": "Encours",
+    "demande": [
+        {
+            "id": 2,
+            "type": "annulation",
+            "date": "12\/01\/2023",
+            "motif": "thierno l'animiste",
+            "etudiant_id": 6,
+            "annee_id": 1,
+            "etat": "Rejeter"
+        },
+        {
+            "id": 2,
+            "type": "Suspension",
+            "date": "12\/01\/2023",
+            "motif": "abacar lo agner",
+            "etudiant_id": 1,
+            "annee_id": 1,
+            "etat": "Accepte"
+        },
+        {
+            "id": 2,
+            "type": "Suspension",
+            "date": "12\/01\/2023",
+            "motif": "kiki comment tu vas",
+            "etudiant_id": 2,
+            "annee_id": 1,
+            "etat": "Encours"
+        },
+        {
+            "id": 2,
+            "type": "annulation",
+            "date": "12\/01\/2023",
+            "motif": "tewte",
+            "etudiant_id": 3,
+            "annee_id": 1,
+            "etat": "Accepte"
+        },
+        {
+            "id": 2,
+            "type": "Suspension",
+            "date": "12\/01\/2023",
+            "motif": "papa",
+            "etudiant_id": 4,
+            "annee_id": 1,
+            "etat": "Encours"
+        },
+        {
+            "id": 2,
+            "type": "Suspension",
+            "date": "12\/01\/2023",
+            "motif": "papa",
+            "etudiant_id": 5,
+            "annee_id": 1,
+            "etat": "Encours"
+        },
+        {
+            "id": 2,
+            "type": "Annulationr",
+            "date": "12\/01\/2023",
+            "motif": "kedkkd",
+            "etudiant_id": 1,
+            "annee_id": 1,
+            "etat": "Encours"
+        }
+    ]
+}
